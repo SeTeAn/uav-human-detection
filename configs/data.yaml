@@ -1,0 +1,15 @@
+path: ../data
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names:
+  0: human
+
+roboflow:
+  workspace: crumbobly
+  project: uav-lacmus
+  version: 7
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/crumbobly/uav-lacmus/dataset/7

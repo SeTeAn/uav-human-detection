@@ -1,0 +1,25 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+
+# Local datasets and training runs
+data/
+runs/
+test_results*/
+
+# Large artifacts
+*.pt
+*.pth
+*.onnx
+*.engine
+*.mp4
+*.avi
+*.mov
+
+# OS files
+.DS_Store
+Thumbs.db
