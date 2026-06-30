@@ -16,6 +16,15 @@ The ML/CV implementation included:
 
 The original project presentation describes the system goal as a computer vision module for detecting people in UAV imagery in forest environments.
 
+## Technologies
+
+- Python
+- Ultralytics YOLO / YOLO11m
+- PyTorch / CUDA
+- OpenCV
+- Roboflow dataset export
+- YOLO annotation format
+
 ## Dataset
 
 The experiment used the UAV-Lacmus dataset from Roboflow:
