@@ -75,6 +75,14 @@ Preserved metrics from that experiment:
 
 These metrics are archived experiment results. Because the trained checkpoint was not preserved, the exact run is not fully reproducible from this repository alone.
 
+## Qualitative Examples
+
+Selected annotated examples from the preserved result images:
+
+| Detection example 1 | Detection example 2 |
+| --- | --- |
+| ![UAV human detection example 1](assets/visual-example/detection-example-01.jpg) | ![UAV human detection example 2](assets/visual-example/detection-example-02.jpg) |
+
 Input image examples are available in `assets/examples/`.
 
 Selected annotated prediction examples are available in `results/examples/`.
